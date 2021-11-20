@@ -1,0 +1,18 @@
+{
+  "name": "boa-bot",
+  "version": "1.0.0",
+  "description": "Stupid telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro-bot",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ciro Rocha",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jimp": "^0.16.1",
+    "micro-bot": "^2.5.3"
+  }
+}
